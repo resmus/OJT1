@@ -1,0 +1,114 @@
+
+estimation for preparing testplans, scenarios and cases
+
+1. functional point based estimation
+2. screen count based
+3. experience based
+
+1.a.complex
+1.b.high
+1.c.medium
+1.d.low
+
+within a Sprint
+manual-40cases a day
+automation-8to10
+
+
+userstories in agile
+
+
+Interview questions
+
+tell me about your current project
+
+roles and responsibilities in the current project
+
+how will u get the build
+
+how often u have a release
+
+testing process you are following in your project
+
+what is system testing
+
+what is the test case template you are following
+
+Test management tool
+
+techniquest for writing the test cases
+
+how many testcases you are able to write/day
+
+how many testcases do you execute per day - 60 to 80
+
+sevierity & priority
+
+tel me any low sevierity-high priority defect
+
+how many testcases you have written in your career - about4k
+
+how many deffects you have raised in your career - about 1k
+
+modules in QC
+
+where will execute test case in QC, write tc in QC, defect in QC
+
+how will you move TCs from test plan to test lab
+
+defect life cycle, stlc, sdlc
+
+unit testing , integration testing - ->system testing
+
+what is the frame work you are following
+
+how long you are in Automation
+
+how many tcs you have automated - 700
+
+size of regression suite - contains of 3k - almost 50% is automated
+
+data driven -xcel operations
+
+TestNG
+
+challenges that you have come acrossed during the project (test data issues for manual)
+
+relative xpath and absolute xpath
+
+700 tcs and you are the only tester what is your approach
+
+only build is given - no frs, what is the approach of your testing/help documents(old defect reports)
+
+knowledge on SQL,join-types
+
+what is a trigger, stored procedure, drop and delete
+
+10 basic linux commands
+
+strengths and weakness
+
+why did you choose our company
+
+what do you know about our company
+
+why testing
+
+5year lookup
+
+ask about career growth
+
+write a few testcases for pen, waterbottle, payslip, printer, ATM machine, smartphone, toaster
+
+JAVA prog////////////////////////////////////////////////
+
+palindrome
+
+fibonacci series
+
+reverse of a string
+
+exception handling
+
+
+
